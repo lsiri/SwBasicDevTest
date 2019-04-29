@@ -1,7 +1,7 @@
 # SwBasicDevTest
 
 
-# Making an easy Hello-Wold and deploy it to azure!
+# Making an easy Hello-Wold based in a docker image and deploy it to azure!
 
 Documentation:
 
